@@ -2,6 +2,6 @@
 
 ## Screenshot:
 
-[![](./design%20preview.png)](http://https://ujjawalmaurya.github.io/Design-Landing-Page)
+[![](./design%20preview.png)](https://ujjawalmaurya.github.io/Design-Landing-Page/)
 
-> [Deployed link here](http://https://ujjawalmaurya.github.io/Design-Landing-Page)
+> [Deployed link here](https://ujjawalmaurya.github.io/Design-Landing-Page/)
